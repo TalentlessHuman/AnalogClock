@@ -40,7 +40,7 @@ No installation required. Just clone the repository and open `index.html` in a b
 
 ```sh
 # Clone this repository
-git clone https://github.com/YourGitHubUsername/analog-clock.git
+git clone https://github.com/TalentlessHuman/AnalogClock.git
 
 # Open the file in a browser
 cd analog-clock
